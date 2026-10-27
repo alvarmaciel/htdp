@@ -1,0 +1,4 @@
+#+title: Readme
+This is the repo for the exercises and maybe the notes of the bookclub for the [[https://htdp.org/2024-11-6/Book/][How to Design Programs]] by Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi
+
+
